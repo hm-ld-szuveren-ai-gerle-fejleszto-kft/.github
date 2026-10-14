@@ -1,3 +1,10 @@
+<!-- Ez egy fiktív cég, fiktív munkaerővel, fiktív termékekkel, fiktív minden. -->
+<!-- DISCLAIMER:
+
+Disclaimer: This content is a parody and satire. It is intended solely for entertainment, humor, and social commentary. All characters, names, events, and incidents portrayed in this production are entirely fictional, or are used in a fictitious and parodic manner. Any resemblance to actual persons (living or dead), real events, or actual entities is purely for comedic purposes and should not be interpreted as factual or true.
+
+-->
+
 # HM LD Szuverén AI Gerle Fejlesztő Kft.
 
 > **A döntés szuverén. A beavatkozás autonóm. A dokumentáció folyamatban.**
